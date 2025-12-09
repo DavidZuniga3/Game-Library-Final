@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "platform": "PC \/ Console",
+        "release_year": 2011,
+        "image": "images\/minecraft.jpg",
+        "description": "Build, explore, and survive in a blocky world."
+    },
+    {
+        "id": 2,
+        "title": "Wii Sports",
+        "genre": "Sports",
+        "platform": "Wii",
+        "release_year": 2006,
+        "image": "images\/wiiSports.jpg",
+        "description": "A collection of sports simulations using the motion sense of the Wii remote."
+    },
+    {
+        "id": 3,
+        "title": "Red Dead Redemption 2",
+        "genre": "Action-adventure",
+        "platform": "PC \/ Console",
+        "release_year": 2018,
+        "image": "images\/redDeadRedemption2.jpg",
+        "description": "Play as an outlaw set in the late 1800s in a vast open world."
+    },
+    {
+        "id": 4,
+        "title": "The Oregon Trail",
+        "genre": "Strategy",
+        "platform": "PC",
+        "release_year": 1971,
+        "image": "images\/oregonTrail.jpg",
+        "description": "Manage your supplies, make decisions, and survive on your journey to Oregon."
+    },
+    {
+        "id": 5,
+        "title": "Cyberpunk 2077",
+        "genre": "Action role-playing",
+        "platform": "PC \/ Console",
+        "release_year": 2020,
+        "image": "images\/cyberpunk.jpg",
+        "description": "Navigate a world filled with crime in this futuristic open world RPG."
+    },
+    {
+        "id": 6,
+        "title": "The Sims",
+        "description": "Create and control people in an open sandbox world.",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/22\/The_Sims_Coverart.png?20180311170203"
+    }
+]
